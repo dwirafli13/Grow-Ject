@@ -21,9 +21,7 @@
 
 # Beberapa Insight dari Data
 1. Pengiriman paling banyak dilakukan dari gudang F dan dengan metode pengiriman menggunakan kapal(ship)
-
 ![warehouse](https://user-images.githubusercontent.com/99067834/162570252-c6780574-1c3e-4a06-bc55-b28c59e5ccc3.png)
-
 2. Pengiriman yang terlambat ternyata banyak datang dari barang yang tidak terlalu berat
 ![weight in grams](https://user-images.githubusercontent.com/99067834/162569843-71c46878-b50b-4ae7-b384-4ac41bc7cb7e.png)
 3. Pengiriman yang terlambat banyak datang dari product importance _low_
